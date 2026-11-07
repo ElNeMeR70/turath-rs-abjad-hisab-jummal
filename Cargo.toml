@@ -1,0 +1,10 @@
+[package]
+name = "turath-rs-abjad-hisab-jummal"
+version = "1.0.0"
+edition = "2021"
+description = "Mashriqi & Maghribi Abjad Numeral & Chronogram (Hisab Al-Jummal) Calculator"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "turath_rs_abjad_hisab_jummal"
+path = "main.rs"
